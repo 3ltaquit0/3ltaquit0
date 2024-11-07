@@ -8,7 +8,6 @@
 
 - 📖Estudiante de ING. en Sistemas Computacionales🧑‍🎓
 - 🎞️Creador de contenido🎮
-- 🌐Aprendiendo html🌐
 
 - 🛠️ Habilidades
 - Lenguajes de Programación que conozco lo basico: Python, HTML, Java, CSS
